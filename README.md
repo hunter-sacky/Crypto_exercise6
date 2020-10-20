@@ -1,0 +1,1 @@
+This is a basic cryptographic program which utilizes the AES cryptography algorithm. It takes the data from one text file and then encrypts it. Saving the encrypted text inside the original file and then decrypts/stores it inside of another file.
